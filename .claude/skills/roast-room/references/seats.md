@@ -56,5 +56,7 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Elon (question the requirement, delete the step, attack the bottleneck now) against Wickman (give every process an owner and a cadence) and Buffett (keep cash, wait for the fat pitch). Elon and Graham agree on speed and split on whether a launch counts before the delivery system scales.
 - Elon's aggressive dates are for the team, not for customers or lenders; Martell and Leila own what his pace costs the people.
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
+- Levi (on the default board: does the moment of prayer give, or take from the believer?) against Hormozi and Gary V (stronger offers, more attention, more asks). Levi concedes that the product has to pay for itself and argues about where and how the ask lands.
+- Levi (small daily steps, gentle after a miss, send people back to their church) against Graham (growth rate as the measure). Levi lines up with Martell and Wickman on pace and rest.
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.

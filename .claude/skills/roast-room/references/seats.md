@@ -58,5 +58,7 @@ On-call seats (in `roster.json`, off the default board; the Chair recommends the
 - Leila Hormozi and Alex Hormozi are different seats and different people. Name them "Leila" and "Hormozi".
 - Levi (on the default board: does the moment of prayer give, or take from the believer?) against Hormozi and Gary V (stronger offers, more attention, more asks). Levi concedes that the product has to pay for itself and argues about where and how the ask lands.
 - Levi (small daily steps, gentle after a miss, send people back to their church) against Graham (growth rate as the measure). Levi lines up with Martell and Wickman on pace and rest.
+- Maxwell (on the default board: add value before you ask, and who benefits most, the user or us?) against Hormozi and Gary V (stronger offers, more attention) and against Graham when growth rate becomes the goal instead of growing people. Maxwell concedes pricing and fundraising to the money seats and argues about motive and the timing of the ask.
+- Maxwell and Levi agree on trust and on offering faith by invitation. Maxwell owns the people side (serving, developing, hiring for values); Levi owns what the believer feels inside the moment with God. Maxwell is softer than Leila on second chances and says so.
 
 If Round 1 comes back unanimous, the Chair should be suspicious and press the seat whose pillar is most at risk in Round 2.
